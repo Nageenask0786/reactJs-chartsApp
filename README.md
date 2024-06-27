@@ -30,7 +30,7 @@ git clone https://github.com/Nageenask0786/reactJs-chartsApp
 
 1. **Install neccessary dependencies:**
 
-Run npm install to install ths neccessary required to run the project locally on your device.
+Run npm install to install the dependencies required to run the project locally on your device.
 
 2. **Navigate to Your Project Directory:**
 
