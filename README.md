@@ -24,26 +24,33 @@ node -v
 npm -v
 
 ## Getting Started
+### Prerequisites
+Make sure you have Node.js and npm installed on your machine. You can download them from the [official Node.js website](https://nodejs.org/).
+ 
+### Clone the Repository
 
-##Clone the git repository by running the command below.
-git clone https://github.com/Nageenask0786/reactJs-chartsApp
+1. Clone the repository to your local machine using the following command:
 
-1. **Install neccessary dependencies:**
+```bash
+git clone https://github.com/Nageenask0786/reactJs-chartsApp/
+cd reactJs-chartsApp
+```
+2. Install Dependencies
+Install the required dependencies using npm:
+```
+bash
+npm install
+```
+3. Start the Development Server
+Run the development server to see your application in action:
 
-Run npm install to install the dependencies required to run the project locally on your device.
+```bash
 
-2. **Navigate to Your Project Directory:**
+npm start
+```
+This command will open your default web browser and navigate to http://localhost:3000, where you can see your React application running.
 
-   cd charts-app
 
-4. **Start the Development Server:**
-  Run npm start to start the server.
-
-   This will start the development server and open your new React app in your default web browser.
-
-## Project 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Third party packages
 1. create-react-app
